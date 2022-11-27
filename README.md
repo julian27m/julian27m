@@ -7,7 +7,7 @@ But innovative solutions also need an artistic perspective, that's why I am work
 
 - 💻 Technologies I have worked with: Python, Java, HTML, JavaScript, Django, SQL, C/C++, Git, AWS.
 - 🎬 Other skills: Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Camtasia, Audacity.
-- 📚 Relevant coursework: Data Sructures, Analysis and Desing of Algorithms, Machine Learning, Multivariable Calculus, Software Architecture, Transactional Systems.
+- 📚 Relevant coursework: Data Structures, Analysis and Desing of Algorithms, Machine Learning, Multivariable Calculus, Software Architecture, Transactional Systems.
 - ⚡ My interests: Photography, film making, 2D and 3D animation, graphic arts and music.
 - 📫 How to reach me:
 
