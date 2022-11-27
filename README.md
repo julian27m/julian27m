@@ -1,6 +1,6 @@
 ### Hi there, my name is Julián Mora 👋
 
-I solve problems in creative ways at Universidad de los Andes, where I am completing my senior year in Computer Systems Engineering 👨‍💻
+I solve problems in creative ways at Universidad de los Andes, where I am begining my senior year in Computer Systems Engineering Major 👨‍💻
 
 But innovative solutions also need an artistic perspective, thats why I am also working on a Visual Computing Minor in the same University 🎨
 
