@@ -2,7 +2,7 @@
 
 I solve problems in creative ways at Universidad de los Andes, where I am begining my senior year in Computer Systems Engineering Major 👨‍💻
 
-But innovative solutions also need an artistic perspective, thats why I am also working on a Visual Computing Minor in the same University 🎨
+But innovative solutions also need an artistic perspective, thats why I am also working on my Minor in Visual Computing at the same University 🎨
 
 
 - 💻 Technologies I have worked with: Python, Java, HTML, JavaScript, Django, SQL, C/C++, Git, AWS.
