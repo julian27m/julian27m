@@ -5,7 +5,7 @@ I solve problems in creative ways at Universidad de los Andes, where I am begini
 But innovative solutions also need an artistic perspective, that's why I am working as well on my Minor in Visual Computing at the same University 🎨
 
 
-- 💻 Technologies I have worked with: Python, Java, HTML, JavaScript, Django, SQL, C/C++, Git, AWS.
+- 💻 Technologies I have worked with: Python, Java, HTML, JavaScript, Django, SQL, C#, C/C++, Git, AWS.
 - 🎬 Other skills: Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Camtasia, Audacity.
 - 📚 Relevant coursework: Data Structures, Analysis and Desing of Algorithms, Machine Learning, Multivariable Calculus, Software Architecture, Transactional Systems.
 - ⚡ My interests: Photography, film making, 2D and 3D animation, graphic arts and music.
