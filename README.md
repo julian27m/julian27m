@@ -1,14 +1,14 @@
 ### Hi there, my name is Julián Mora 👋
 
-I solve problems in creative ways at Universidad de los Andes, where I am begining my senior year in Computer Systems Engineering Major 👨‍💻
+I solve problems in creative ways at Universidad de los Andes, where I am cursing my senior year in Computer Systems Engineering Major 👨‍💻
 
 But innovative solutions also need an artistic perspective, that's why I am working as well on my Minor in Visual Computing at the same University 🎨
 
 
-- 💻 Technologies I have worked with: Python, Java, HTML, JavaScript, Django, SQL, C#, C/C++, Git, AWS.
+- 💻 Technologies I have worked with: Python, Java, HTML, Django, SQL, C#, C/C++, Git, AWS, Unity.
 - 🎬 Other skills: Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Camtasia, Audacity.
-- 📚 Relevant coursework: Data Structures, Analysis and Desing of Algorithms, Machine Learning, Multivariable Calculus, Software Architecture, Transactional Systems.
-- ⚡ My interests: Photography, film making, 2D and 3D animation, graphic arts and music.
+- 📚 Relevant coursework: Data Structures, Analysis and Desing of Algorithms, Mixed Reality Applications Developement, Machine Learning, Multivariable Calculus, Software Architecture, Transactional Systems.
+- ⚡ My interests: Mixed reality applications, photography, film making, 2D and 3D animation, graphic arts and music.
 - 📫 How to reach me:
 
     [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julian_mora.27/) 
