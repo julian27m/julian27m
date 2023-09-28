@@ -2,7 +2,7 @@
 
 I solve problems in creative ways at Universidad de los Andes, where I am cursing my senior year in Computer Systems Engineering Major 🖥
 
-But innovative solutions also need an artistic perspective, that's why I am working as well on my Minor in Visual Computing at the same University 🎨
+My focus lies in Visual Computing and Mixed Reality, as I firmly believe that innovative solutions demand an artistic perspective 🎨
 
 
 - **💻 Technologies I have worked with:**
