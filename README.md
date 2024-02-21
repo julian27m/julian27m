@@ -6,6 +6,8 @@ Specializing in Visual Computing and Extended Reality (XR), I channel my passion
 
 Currently pursuing a Master's degree in Systems and Computing Engineering at Universidad de los Andes, I'm excited to delve deeper into the realm of immersive technology and drive impactful change 🌎
 
+![Julian's github stats](https://github-readme-streak-stats.herokuapp.com/?user=julian27m&theme=dark&hide_border=true)<br/>
+
 
 - **💻 Technologies I have worked with:**
 
