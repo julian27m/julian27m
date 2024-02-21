@@ -1,20 +1,23 @@
 ### Hi there, my name is Julián Mora 👋
 
-I solve problems in creative ways at Universidad de los Andes, where I am cursing my senior year in Computer Systems Engineering Major 🖥
+At Universidad de los Andes, where I graduated with a degree in Systems and Computing Engineering, I've embarked on a journey of creativity, innovation and collaboration 🖥
 
-My focus lies in Visual Computing and Mixed Reality, as I firmly believe that innovative solutions demand an artistic perspective 🎨
+Specializing in Visual Computing and Extended Reality (XR), I channel my passion for technology into developing and researching XR applications 🥽🕹
+
+Currently pursuing a Master's degree in Systems and Computing Engineering at Universidad de los Andes, I'm excited to delve deeper into the realm of immersive technology and drive impactful change 🌎
 
 
 - **💻 Technologies I have worked with:**
 
+    ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+    ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-    ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 - **🎬 Other skills:**
@@ -27,8 +30,8 @@ My focus lies in Visual Computing and Mixed Reality, as I firmly believe that in
     
 - **🕹 XR development:**
 
-    - Microsoft Hololens 2 (Augmented Reality)
-    - Meta Quest 2 (Virtual Reality)
+    - Microsoft HoloLens 2: Mixed Reality Toolkit 2, Mixed Reality Toolkit3, Unity XR
+    - Meta Quest 2: Open XR, Oculus Integration, XR Interaction Toolkit
 
 - **📚 Relevant coursework:**
 
