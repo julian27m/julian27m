@@ -8,13 +8,19 @@ Currently pursuing a Master's degree in Systems and Computing Engineering at Uni
 
 ![Julian's github stats](https://github-readme-streak-stats.herokuapp.com/?user=julian27m&theme=dark&hide_border=true)<br/>
 
+- **🕹 XR development:**
+
+  - <img alt="microsoft logo" height="25" src="https://cdn-icons-png.flaticon.com/512/732/732221.png"> Microsoft HoloLens 2 : OpenXR, Mixed Reality Toolkit 2, Mixed Reality Toolkit3
+  - <img alt="meta logo" height="25" src="https://1000logos.net/wp-content/uploads/2021/10/logo-Meta-1536x864.png"> Meta Quest 2/3: OpenXR, Oculus Integration, XR Interaction Toolkit 
+
 - **💻 Technologies I have worked with:**
 
     ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+    ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
     ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -28,11 +34,6 @@ Currently pursuing a Master's degree in Systems and Computing Engineering at Uni
     ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
     ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
     ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-    
-- **🕹 XR development:**
-
-    - Microsoft HoloLens 2: Mixed Reality Toolkit 2, Mixed Reality Toolkit3, Unity XR
-    - Meta Quest 2: Open XR, Oculus Integration, XR Interaction Toolkit
 
 - **📚 Relevant coursework:**
 
